@@ -1,0 +1,6 @@
+# challenge circuits and answers are not redistributed
+*.qasm
+*.zip
+*.csv
+__pycache__/
+.ipynb_checkpoints/
