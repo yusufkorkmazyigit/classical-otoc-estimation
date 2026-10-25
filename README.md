@@ -61,11 +61,12 @@ Truncated MPS systematically **overestimates** ⟨Z⟩ in the scrambling front, 
 |---|---|---|
 | S1 | Exact statevector | 100 / 100 |
 | S2 | Exact statevector | 100 / 100 |
-| S3 | Own Pauli-path simulator | _TBD_ / 100 |
+| S3 | Own Pauli-path simulator | 100 / 100 |
 | G1 | Exact statevector (BlueQubit GPU) | 300 / 300 |
 | G2 | MPS χ = 32/64 + extrapolation | 519 / 600 |
 | G3 | — (blocked by credit minimum) | 0 / 800 |
 | G4 | MPS χ = 16, heuristics | ≈ 0 / 1000 |
+| **Total** | | **1120 / 3000 — 40th place** |
 
 ## Repository layout
 
